@@ -24,7 +24,7 @@ public class Condicional {
         JOptionPane.showMessageDialog(null, "Área= " + area);
     }
 
-    public boolean validarDato(double dato) {
+    private boolean validarDato(double dato) {
         if (dato <= 0) {
             JOptionPane.showMessageDialog(null, "ERROR, dato no válido");
             return true;
