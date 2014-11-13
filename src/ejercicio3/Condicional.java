@@ -8,8 +8,8 @@ import javax.swing.JOptionPane;
  */
 public class Condicional {
 //variables
-    private double base;
-    private double altura;
+   public double base;
+    public double altura;
 //metods
     public void introducirDatos() {
         do {
