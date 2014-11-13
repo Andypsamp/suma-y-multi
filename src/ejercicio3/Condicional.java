@@ -10,7 +10,7 @@ public class Condicional {
 //variables
     private double base;
     private double altura;
-
+//metods
     public void introducirDatos() {
         do {
             String dato = JOptionPane.showInputDialog("Introducir Base.");
