@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
  * @author APS
  */
 public class Condicional {
-
+//variables
     private double base;
     private double altura;
 
