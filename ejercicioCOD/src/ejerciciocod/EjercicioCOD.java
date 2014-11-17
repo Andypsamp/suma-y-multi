@@ -12,6 +12,7 @@ public class EjercicioCOD {
      num1=teclado.nextInt();
      num2=teclado.nextInt();
      System.out.println("Suma d dos numeros:"+(num1+num2));
+     System.out.println("La multiplicacion:"+(num1*num2));
      
      
      
